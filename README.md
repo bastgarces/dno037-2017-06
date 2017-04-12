@@ -14,5 +14,5 @@ Se considerará:
 - [x] Consistencia y pertinencia de ajustes en CSS (ajustes.css)
 - [x] Rigurosidad en la descripción semántica de elementos HTML (header, section, aside, footer… article)
 - [x] Atención a la relación peso/calidad de los media incluidos (evitar imágenes de más de 200kb)
-- [x] Cuidado de la redacción de metadatos (usan [Mega Tags](https://megatags.co/)
+- [x] Cuidado de la redacción de metadatos (usan [Mega Tags](https://megatags.co/))
 - [x] Capacidad de edición de contenidos textuales, en función de recomendaciones de  [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
