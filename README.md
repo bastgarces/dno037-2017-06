@@ -16,3 +16,7 @@ Se considerará:
 - [x] Atención a la relación peso/calidad de los media incluidos (evitar imágenes de más de 200kb)
 - [x] Cuidado de la redacción de metadatos (usan [Mega Tags](https://megatags.co/))
 - [x] Capacidad de edición de contenidos textuales, en función de recomendaciones de  [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) y [Stanford Guidelines for Web Credibility](http://credibility.stanford.edu/guidelines/index.html).
+
+### Entregas
+
+La formalidad de la entrega es muy sencilla. Simplemente rellena este [formulario de Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSe2QJpAXy9SBcfA6jl0N8tDUcUBq9hOJ4e0W41nK9mpunR2pA/viewform?usp=sf_link).
